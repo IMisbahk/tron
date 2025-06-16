@@ -1,0 +1,36 @@
+{
+  "token.hello": {
+    "label": "token.hello",
+    "nodeID": "ff48bd62-50e8-5d24-ac75-53b51840da1a",
+    "state": 0.85,
+    "origin": "architect",
+    "reason": "init",
+    "owner": "llm-agent",
+    "nodalType": "embedding",
+    "tags": [],
+    "history": [
+      0.75,
+      0.85,
+      0.85,
+      0.85,
+      0.85,
+      0.85
+    ],
+    "timestamp": 1750077263.971391
+  },
+  "token.hi": {
+    "label": "token.hi",
+    "nodeID": "e9094977-bfee-5537-b62b-fb118593e03e",
+    "state": 3.58,
+    "origin": "architect",
+    "reason": "init",
+    "owner": "llm-agent",
+    "nodalType": "embedding",
+    "tags": [],
+    "history": [
+      0.58,
+      3.58
+    ],
+    "timestamp": 1750077716.669882
+  }
+}
