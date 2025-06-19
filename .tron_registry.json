@@ -1,0 +1,30 @@
+{
+  "input.left_eye": {
+    "label": "input.left_eye",
+    "nodeID": "a4511c43-b05e-59c1-a0da-4a85e0b2084e",
+    "state": 0.5,
+    "origin": "architect",
+    "reason": "init",
+    "owner": "system",
+    "nodalType": "general",
+    "tags": [],
+    "history": [
+      0.5
+    ],
+    "timestamp": 1750183391.6335301
+  },
+  "logic.parse": {
+    "label": "logic.parse",
+    "nodeID": "cb3dedb9-b115-548d-901f-a6d2f4a236b8",
+    "state": 0.0,
+    "origin": "architect",
+    "reason": "init",
+    "owner": "system",
+    "nodalType": "general",
+    "tags": [],
+    "history": [
+      0.0
+    ],
+    "timestamp": 1750183391.633806
+  }
+}

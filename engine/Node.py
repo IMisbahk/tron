@@ -3,7 +3,7 @@ import time
 import numpy as np
 from types import FunctionType
 
-from engine.registry import registry  # ⬅️ Added
+from registry import registry  
 
 class Node:
     """
