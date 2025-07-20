@@ -5,6 +5,7 @@ import json
 import os
 import time
 from pathlib import Path
+import rich
 from rich.console import Console
 from rich.table import Table
 

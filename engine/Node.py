@@ -1,3 +1,5 @@
+#teon/engine/node.py
+
 import uuid
 import time
 import numpy as np
@@ -26,7 +28,6 @@ class Node:
         self.stateHistory = []
 
         if label:
-            # Pull metadata from registry or create new
             meta = registry.register(label, state=internalState, origin=origin, reason=reason, owner=owner, nodalType=nodalType)
             self.nodeID = meta['nodeID']
             self.origin = meta['origin']

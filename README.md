@@ -47,7 +47,7 @@ field.connectNodes(connection)
 pulse = Pulse(strength=1.0)
 nodeA.emitPulse(pulse)
 
-field.tick()  # advance simulation
+field.tick()  
 ```
 
 ---
@@ -65,6 +65,7 @@ tron/
 ├── tests/         # Unit tests
 ├── docs/          # Developer + model architecture docs
 └── examples/      # Sample projects and guided builds
+├── models/        # Sample projects and guided builds
 ```
 
 ---
